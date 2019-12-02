@@ -1,0 +1,38 @@
+
+# Clion cmake files
+cmake-build-debug/
+
+# JetBrains IDE files
+.idea
+
+# VSCode IDE files
+.vscode
+
+# Cache files
+.cache
+
+# ropeproject files
+.ropeproject
+
+# mac os x shit
+.DS_Store
+
+# pycache files (binaries)
+__pycache__
+
+tests/selenium_tests/\.pytest_cache/
+
+tests/selenium_tests/tests/\.pytest_cache/
+
+tests/\.pytest_cache/
+
+\.pytest_cache/
+
+web/solution-*
+web/docs/build/html/_static/
+
+web/docs/_build/
+
+web/yarn\.lock
+
+web/\.coverage
